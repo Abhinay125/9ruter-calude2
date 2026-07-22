@@ -1,0 +1,24 @@
+{
+  "name": "9ruter-calude2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinay125/9ruter-calude2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abhinay125/9ruter-calude2/issues"
+  },
+  "homepage": "https://github.com/Abhinay125/9ruter-calude2#readme",
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}
